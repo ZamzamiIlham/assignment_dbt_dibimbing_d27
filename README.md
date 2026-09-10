@@ -23,12 +23,13 @@ Project ini merupakan implementasi Modern Data Stack menggunakan **dbt (data bui
 ---
 # Screnshoot dbt run dan dbt test
 ## dbt run
-![dbt run](screenshoot\dbt-run.png)
-![dbt run2](screenshoot\dbt-run2.png)
+![dbt run](assignment_dbt_dibimbing_d27\dbt-run.png)
+![dbt run2](assignment_dbt_dibimbing_d27\dbt-run2.png)
 
 ## dbt test
-![dbt test](screenshoot\dbt-test.png)
-![dbt test2](screenshoot\dbt-test2.png)
+![dbt test](assignment_dbt_dibimbing_d27\dbt-test.png)
+![dbt test2](assignment_dbt_dibimbing_d27\dbt-test2.png)
+
 ---
 
 ## Project Architecture & Data Models
